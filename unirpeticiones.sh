@@ -36,3 +36,43 @@ cat peticion28/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes
 cat peticion29/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
 cat peticion30/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
 cat peticion31/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion32/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+#cat peticion33/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion34/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion35/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion36/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion37/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion38/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion39/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion40/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion41/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion42/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion43/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion44/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion45/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion46/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion47/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion48/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion49/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion50/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion51/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
