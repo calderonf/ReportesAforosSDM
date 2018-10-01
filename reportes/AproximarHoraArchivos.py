@@ -61,6 +61,23 @@ def sumarUnaHora(HH):
         HH='01'
     return HH
 
+def sumar15Minutos(HH,MM):
+    if MM=='00':
+        MM='15'
+    elif MM=='15':
+        MM='30'
+    elif MM=='30':
+        MM='45'
+    elif MM=='45':
+        HH=sumarUnaHora(HH)
+        MM='00'
+    else:
+        print ("ERROR solo se soportan multiplos de 15 minutos")
+    
+    return HH,MM
+
+
+
 path=easygui.fileopenbox(title="seleccione un archivo separado por comas",filetypes=["*.csv"])
 data = open(path,'r')
 filename, file_extension = os.path.splitext(path)
@@ -84,18 +101,17 @@ for line in data:
         SS=fecha[2]
         if (MM<7.5 and MM>=0):
             MM='00'
-            
         elif (MM >= 52.5 and MM<=60):
             HH=sumarUnaHora(HH)
-            MM='00'
-                    
+            MM='00'  
         elif MM<22.5 and MM>=7.5:
             MM='15'
         elif MM<37.5 and MM>=22.5:
             MM='30'
         elif MM<52.5 and MM>=37.5:
             MM='45'
-        newlin=lindata[0]+','+lindata[1]+','+lindata[2]+','+lindata[3]+','+lindata[4]+','+lindata[5]+','+str(HH)+':'+str(MM)+','+lindata[7]+','+lindata[8]+','+lindata[9]+','+lindata[10]+','+lindata[11]+','+lindata[12]+','+lindata[13]+','+lindata[14]+','+lindata[15]+',\n'
+        HH,MM=sumar15Minutos(HH,MM)
+        newlin=lindata[0][0:2]+'/'+lindata[0][2:4]+'/'+lindata[0][4:8]+','+lindata[1]+','+lindata[2]+','+lindata[3]+','+lindata[4]+','+lindata[5]+','+str(HH)+':'+str(MM)+','+lindata[7]+','+lindata[8]+','+lindata[9]+','+lindata[10]+','+lindata[11]+','+lindata[12]+','+lindata[13]+','+lindata[14]+','+lindata[15]+',\n'
         print (newlin)
         print(".")
         print("")
