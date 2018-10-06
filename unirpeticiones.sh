@@ -56,6 +56,9 @@ cat peticion48/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes
 cat peticion49/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
 cat peticion50/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
 cat peticion51/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+# se hacen nuevos reportes. 
+
+
 
 cd reportes
 echo "aproximando hora de archivos"
