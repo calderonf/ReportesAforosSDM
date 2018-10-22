@@ -115,16 +115,51 @@ cat peticion99/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes
 cat peticion100/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
 cat peticion101/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
 cat peticion102/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
-#cat peticion103/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
-#cat peticion104/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
-#cat peticion105/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
-#cat peticion106/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
-#cat peticion107/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
-#cat peticion108/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
-#cat peticion109/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+#Inicio tercara tanda
+cat peticion103/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion104/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion105/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion106/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion107/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion108/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion109/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion110/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion111/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion112/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion113/Particion1/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion113/Particion2/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion114/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion115/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion116/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion117/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion118/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion119/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion120/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion121/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion122/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion123/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion124/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion125/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion126/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion127/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion128/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion129/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+
+cat peticion130/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion131/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion132/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion133/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion134/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion135/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion136/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion137/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+cat peticion138/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
+#cat peticion139/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones.csv
 
 cd reportes
-echo "aproximando hora de archivos"
+echo "aproximando hora de archivos, seleccione archivo reportes_peticiones.csv"
 python AproximarHoraArchivos.py
 
 
