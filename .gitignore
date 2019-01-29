@@ -36,6 +36,8 @@ darknet
 *.a
 *.so
 *.avi
+*.MP4
+*.mp4
 .Trash-1000/
 python/sompic.jpg
 python/ultimofotogramaprocesado.jpg
