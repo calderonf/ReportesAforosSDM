@@ -1,6 +1,8 @@
 # ReportesAforos
 Reportes de aforos secretaria de movilidad Bogota
 Este repositorio git se actualiza conforme se van generando reportes de conteo automatico.
+la lista de peticiones puede encontrarse aquí:
+https://docs.google.com/spreadsheets/d/1usfodt8vuFYU1tXY6I6-Lt0HkWuElaG5q5zkadUxsqY/edit?usp=sharing
 
 Instrucciones para crear una peticion...
 
