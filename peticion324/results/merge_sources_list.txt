@@ -1,0 +1,7 @@
+file '/Videos/peticion324/CAM12_20190207060000_300406180.avi'
+file '/Videos/peticion324/CAM12_20190207060539_300450624.avi'
+file '/Videos/peticion324/CAM12_20190207063808_300705421.avi'
+file '/Videos/peticion324/CAM12_20190207071035_300961434.avi'
+file '/Videos/peticion324/CAM12_20190207074301_301217900.avi'
+file '/Videos/peticion324/CAM12_20190207081527_436053292.avi'
+file '/Videos/peticion324/CAM12_20190207084753_436308182.avi'
