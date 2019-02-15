@@ -72,6 +72,7 @@ cat peticion334/results/reporte_general_carpeta_sinmarco.csv >> reportes/reporte
 cat peticion335/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones_DSC2019.csv
 cat peticion336/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones_DSC2019.csv
 cat peticion337/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones_DSC2019.csv
+cat peticion338/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones_DSC2019.csv
 
 cd reportes
 echo "aproximando hora de archivos, seleccione archivo reportes_peticiones_DSC2019.csv"
