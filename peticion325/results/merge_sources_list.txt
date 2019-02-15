@@ -1,5 +1,0 @@
-file '/Videos/peticion325/CAM25_20190207060000_436276124.avi'
-file '/Videos/peticion325/CAM25_20190207062041_436488473.avi'
-file '/Videos/peticion325/CAM25_20190207070113_436741522.avi'
-file '/Videos/peticion325/CAM25_20190207074123_437001591.avi'
-file '/Videos/peticion325/CAM25_20190207082145_437249617.avi'
