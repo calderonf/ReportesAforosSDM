@@ -39,5 +39,7 @@ darknet
 *.MP4
 *.mp4
 .Trash-1000/
+peticion307/results/
 python/sompic.jpg
+imagesbase/
 python/ultimofotogramaprocesado.jpg
