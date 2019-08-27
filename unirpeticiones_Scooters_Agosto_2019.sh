@@ -6,6 +6,7 @@ cat /home/francisco/ReportesAforosSDM/Scooters_CAMARA_40_CR11XCL85/12-08-2019/re
 cat /home/francisco/ReportesAforosSDM/Scooters_CAMARA_40_CR11XCL85/13-08-2019/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones_Scooters_2019.csv
 cat /home/francisco/ReportesAforosSDM/Scooters_CAMARA_40_CR11XCL85/14-08-2019/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones_Scooters_2019.csv
 cat /home/francisco/ReportesAforosSDM/Scooters_CAMARA_40_CR11XCL85/15-08-2019/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones_Scooters_2019.csv
+cat /home/francisco/ReportesAforosSDM/Scooters_CAMARA_40_CR11XCL85/16-08-2019/results/reporte_general_carpeta_sinmarco.csv >> reportes/reportes_peticiones_Scooters_2019.csv
 
 
 cd reportes
